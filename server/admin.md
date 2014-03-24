@@ -1,10 +1,14 @@
 Chinamobo 服务器管理手册
 ======
 
-服务器初始配置
+**目录**
+
+* [服务器初始配置](#init)
+
+[服务器初始配置](id:init)
 ----
 
-### 更新软件包
+### [更新软件包](id:yum-update)
 
 ```
 yum upgrade
@@ -12,7 +16,7 @@ yum install git
 reboot
 ```
 
-### 数据盘挂载
+### [数据盘挂载](id:mount)
 
 * 阿里云额外数据盘挂载教程 http://help.aliyun.com/view/11108189_13435365.html
 
@@ -81,6 +85,8 @@ passwd -e $MUser
 > 
 > 用户名是你的用户名全拼，初始密码是 **mobo你的用户名全拼**，首次登录后你需要修改密码，强度过弱的密码会被拒绝，请使用足够强度的密码，密码修改后需要重新登录
 > 
+> 关于登入的相关问题见：https://github.com/Chinamobo/guides/blob/master/server/user_login.md
+> 有其他问题联系请管理员。
 
 
 ### 工具软件安装
