@@ -42,16 +42,13 @@
 
 如何申请开发者账号？
 -----
-如果你不想将应用发布在我们的名下，你需要申请自己的开发者账号。申请可能需要 20 天以上。
+如果你不想将应用发布在我们的名下，你需要申请自己的开发者账号。申请可能需要长达一个月。
 
-如果以公司名义申请，需要有公司的邓氏编码（D-U-N-S Number），可以到 https://developer.apple.com/ios/enroll/dunsLookupForm.action 查询或免费申请。申请提交后 Apple 可能会在几个工作日内打来电话确认。如果要以个人身份发布应用不需要这个。
+iOS 开发计划有几类：普通（里面又分个人或组织）、企业级、高校。你可以在 https://developer.apple.com/cn/programs/start/ios/ 查看了解详情。一般来说，如果你的应用不想发布到 App Store，需要申请 iOS Developer Enterprise Program，否则普通的 iOS Developer Program 就够了。
 
-准备好后，就可以开始申请了。请访问 https://developer.apple.com/cn/programs/ios/ 按提示操作。参考教程：http://www.cocoachina.com/bbs/simple/?t144852.html
+如果非个人或高校名义申请，需要有公司的邓氏编码（D-U-N-S Number），可以到 https://developer.apple.com/ios/enroll/dunsLookupForm.action 查询或免费申请。申请提交后 Apple 可能会在几个工作日内打来电话确认。如果要以个人身份发布应用不需要这个。
 
-如果你的应用不想发布到 App Stroe，而想自己发布，请注意需要申请年费为 $299 的企业计划。在申请过程中会像下面的选项：
-
-![企业计划选择](idp_program_choose.jpg)
-
+准备好后，就可以开始下面的申请了。参考教程：http://www.cocoachina.com/bbs/simple/?t144852.html
 
 [⇡ 回顶部](#目录)
 
