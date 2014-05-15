@@ -1,13 +1,11 @@
 客户 FAQ
 =====
 
-[目录](id:contents)
+目录
 ----
-* [如何查看设备 UDID？](#udid)
+* [如何查看设备 UDID？](#如何查看设备-udid)
 
-
-
-[如何查看设备 UDID？](id:udid)
+如何查看设备 UDID？
 -----
 
 ### 方法一，在线查看
@@ -28,4 +26,4 @@
 
 ![复制 UDID](itunes_copy_udid.png)
 
-[⇡ 回顶部](#contents)
+[⇡ 回顶部](#目录)
