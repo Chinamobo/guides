@@ -5,6 +5,7 @@
 ----
 * [如何查看设备 UDID？](#如何查看设备-udid)
 * [如何查看设备的系统版本？](#如何查看设备的系统版本)
+* [如何申请开发者账号？](#如何申请开发者账号)
 * [应用审核需要多长时间？](#应用审核需要多长时间)
 
 
@@ -35,6 +36,22 @@
 如何查看设备的系统版本？
 -----
 参见： http://support.apple.com/kb/HT2188?viewlocale=zh_CN
+
+[⇡ 回顶部](#目录)
+
+
+如何申请开发者账号？
+-----
+如果你不想将应用发布在我们的名下，你需要申请自己的开发者账号。申请可能需要 20 天以上。
+
+如果以公司名义申请，需要有公司的邓氏编码（D-U-N-S Number），可以到 https://developer.apple.com/ios/enroll/dunsLookupForm.action 查询或免费申请。申请提交后 Apple 可能会在几个工作日内打来电话确认。如果要以个人身份发布应用不需要这个。
+
+准备好后，就可以开始申请了。请访问 https://developer.apple.com/cn/programs/ios/ 按提示操作。参考教程：http://www.cocoachina.com/bbs/simple/?t144852.html
+
+如果你的应用不想发布到 App Stroe，而想自己发布，请注意需要申请年费为 $299 的企业计划。在申请过程中会像下面的选项：
+
+![企业计划选择](idp_program_choose.jpg)
+
 
 [⇡ 回顶部](#目录)
 
