@@ -9,6 +9,7 @@
 * [收到了安装链接，如何使用？](#收到了安装链接如何使用)
 * [收到了发来的应用包（IPA 格式），如何安装？](#收到了发来的应用包ipa-格式如何安装)
 * [如何申请开发者账号？](#如何申请开发者账号)
+* [应用送审需要提供那些信息？](#应用送审需要提供那些信息)
 * [应用审核需要多长时间？](#应用审核需要多长时间)
 
 
@@ -81,6 +82,70 @@ iOS 开发计划有几类：普通（里面又分个人或组织）、企业级�
 如果非个人或高校名义申请，需要有公司的邓氏编码（D-U-N-S Number），可以到 https://developer.apple.com/ios/enroll/dunsLookupForm.action 查询或免费申请。申请提交后 Apple 可能会在几个工作日内打来电话确认。如果要以个人身份发布应用不需要这个。
 
 准备好后，就可以开始下面的申请了。参考教程：http://www.cocoachina.com/bbs/simple/?t144852.html
+
+[⇡ 回顶部](#目录)
+
+
+应用送审需要提供那些信息？
+-----
+
+一般，你需要提供应用介绍文本，应用分类，版权信息、网站链接。应用截图如果不能单独提供，我们会选择几个典型界面的截图。其他信息我们可以帮填。
+
+如果设计由你们出的话，还需要一个 1024 x 1024 像素的超大应用图标。
+
+所需信息的完整的列表可以见 Apple 网站：[iTunes Connect App Properties](https://developer.apple.com/library/ios/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Appendices/Properties.html)
+
+**建议**：应用图标、应用截图、应用标题、用户评价这几个因素直接会影响到用户是否会下载你的应用，需要认真对待，建议多看看流行应用是怎么做的。相对于这几个，其他信息对用户下载行为影响较弱。建议条件允许的话，应用截图可以找人单独设计，不必一定是实际应用截图。
+
+以下是应用介绍文本，截图和分类的特殊说明。
+
+### 应用介绍文本
+
+无格式的纯文本，字符限制 10 到 4000。
+
+### 应用截图
+
+应用截图分 iPhone 3.5 寸、iPhone 4 寸和 iPad 三组。如果是 iPad 专用应用，可以只提供 iPad 的，否则需要同时提供 iPhone 3.5 寸 和 iPhone 4 寸至少两组。每组最多能有五张。
+
+截图分辨率有如下要求：
+
+* 3.5 寸截图的可以是 960x640, 960x600, 640x960 或 640x920；
+* 4 寸截图的可以是 1136x640, 1136x600, 640x1136 或 640x1096；
+* iPad 截图的可以是 1024x768, 1024x748, 768x1024, 768x1004, 2048x1536, 2048x1496, 1536x2048 或 1536x2008。
+
+
+### 应用分类
+
+应用的分类可能需要你来决定，因为这会决定用户能在哪个类别列表中找到你的应用。
+
+可选的应用类别大致如下：
+
+* 图书 Book
+* 商务 Business
+* 商品指南 Catalogs
+* 教育 Education
+* 娱乐 Entertainment
+* 财务 Finance
+* 美食佳饮 Food & Drink
+* 游戏 Games
+* 健康健美 Health & Fitness
+* 生活 Lifestyle
+* 医疗 Medical
+* 音乐 Music
+* 导航 Navigation
+* 新闻 News
+* 摄影与录像 Photo & Video
+* 效率 Productivity
+* 参考 Reference
+* 社交 Social Networking
+* 体育 Sports
+* 旅游 Travel
+* 工具 Utilities
+* 天气 Weather
+* 儿童 Made for Kids
+
+你可以选一个主类别，一个辅类别。除非是游戏或报刊杂志类，辅类别跟上面的列表一致。
+
 
 [⇡ 回顶部](#目录)
 
