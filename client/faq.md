@@ -77,11 +77,11 @@ iTunes 可以管理设备上的应用，你可以通过 iTunes 把应用程序�
 
 如何申请开发者账号？
 -----
-如果你不想将应用发布在我们的名下，你需要申请自己的开发者账号。申请过程可能会长达一个月。
+如果你不想将应用发布在我们的名下，你需要申请自己的开发者账号。申请过程可能会长达一个月。强烈建议你先阅读 [官方 FAQ](https://developer.apple.com/cn/support/ios/enrollment.html)，注：里面提到的 Volume Purchase Program 在中国不可用。
 
 iOS 开发计划有几类：普通（里面又分个人或组织两个子类）、企业级、高校。你可以在[选择 iOS Developer Program](https://developer.apple.com/cn/programs/start/ios/) 了解到详情。一般来说，如果你的应用不想发布到 App Store，而是通过自己的服务器分发，需要申请 iOS Developer Enterprise Program，否则普通的 iOS Developer Program 就够了。
 
-如果以非个人或高校名义申请，需要有公司的邓氏编码（D-U-N-S Number），可以到 [D-U-N-S Profile Lookup](https://developer.apple.com/ios/enroll/dunsLookupForm.action) 查询或免费申请。申请提交后 Apple 可能会在几个工作日内打来电话确认。如果以个人身份发布应用则不需要这个了。
+如果以非个人或高校名义申请，需要有公司的邓氏编码（D-U-N-S Number），可以到 [D-U-N-S Profile Lookup](https://developer.apple.com/ios/enroll/dunsLookupForm.action) 查询或免费申请。申请提交后 Apple 可能会在几个工作日内打来电话确认。如果以个人身份发布应用则不需要这个了。更多信息参见 [Apple 官方 D-U-N-S® Number 问答](https://developer.apple.com/cn/support/ios/D-U-N-S.html)。
 
 准备好后，就可以开始下面的申请了，申请入口：[Apple Developer Programs 注册
 ](https://developer.apple.com/cn/programs/start/ios/)。参考教程：[13年6月企业 IDP 申请攻略](http://www.cocoachina.com/bbs/simple/?t144852.html)
