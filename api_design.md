@@ -62,3 +62,4 @@ Date("2014-05-27T01:54:47Z");
 参考
 -----
 * https://beta.wikiversity.org/wiki/School:软件开发/API_Design
+* [W3C - ISO 8601 : 1988 (E)](http://www.w3.org/TR/NOTE-datetime)
